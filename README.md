@@ -21,4 +21,3 @@ Movie Reviews which was taken from kaggle website :
 www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data.
 
 
-I and Sajib Kumar Saha Joy have equal contribution in this work.
